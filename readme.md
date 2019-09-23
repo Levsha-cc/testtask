@@ -9,14 +9,18 @@
 * PDO PHP Extension
 * Mbstring PHP Extension
 * Sqlite
+* Composer
 
 ## Установка
 
+> git clone https://github.com/Levsha-cc/testtask.git
+> cd testtask
 > composer install
-
-
-## БД
 
 В файле .env меняем путь к файлу на свой
 
 > DB_DATABASE=/home/levsha/looklitest/database/database.sqlite
+
+Запускаем сервер
+
+> php -S localhost:8000 -t public
