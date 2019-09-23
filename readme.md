@@ -14,7 +14,9 @@
 ## Установка
 
 > git clone https://github.com/Levsha-cc/testtask.git
+>
 > cd testtask
+>
 > composer install
 
 В файле .env меняем путь к файлу на свой
