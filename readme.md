@@ -13,6 +13,8 @@
 
 ## Установка
 
+> cd ~
+> 
 > git clone https://github.com/Levsha-cc/testtask.git
 >
 > cd testtask
