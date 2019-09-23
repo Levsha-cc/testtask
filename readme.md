@@ -14,7 +14,7 @@
 ## Установка
 
 > cd ~
-> 
+>
 > git clone https://github.com/Levsha-cc/testtask.git
 >
 > cd testtask
@@ -28,3 +28,5 @@
 Запускаем сервер
 
 > php -S localhost:8000 -t public
+
+ОТкрываем в браузере http://localhost:8000
